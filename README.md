@@ -18,7 +18,7 @@
 - Data science initiatives
 
 ## 📫 How to reach me 
-- Email: [damilolaosoba41@gmail.com]
+- Email: [damilolaosoba41@gmail.com](mailto:damilolaosoba41@gmail.com)
 - [GitHub](https://github.com/Damilola24434)
 - [LinkedIn](https://www.linkedin.com/in/damilola-osoba-a304ba282/)
 
