@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Damilola24434
+# 👋 Hi, I’m Damilola Osoba
 
 ## 👀 I’m interested in 
 - Software Engineering
