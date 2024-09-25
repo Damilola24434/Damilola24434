@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Damilola Osoba
 
 ## 👀 I’m interested in 
-- Technical Product Management
+- Technical Program Management
 - Software Engineering
 - Cybersecurity
 - Machine Learning
