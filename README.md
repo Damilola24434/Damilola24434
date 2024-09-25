@@ -13,6 +13,7 @@
 - Agile methodologies
 
 ## 💞️ I’m looking to collaborate on 
+- Technical Program Mangement Projects
 - Software development projects
 - Cybersecurity research
 - Data science initiatives
