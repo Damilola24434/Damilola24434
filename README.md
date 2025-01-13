@@ -33,7 +33,7 @@ I once penned a poem titled "Chasing Shadows," weaving a tale of hope and resili
 
 ## About Me
 
-I am a Computer Science student at McNeese State University, anticipating graduation in May 2026 with a GPA of 3.56. Here are some highlights from my resume:
+I am a Computer Science student at McNeese State University, anticipating graduation in May 2026 with a GPA of 3.63. Here are some highlights from my resume:
 
 ### Education
 - **Bachelor of Science in Computer Science**
