@@ -7,10 +7,15 @@
 - Machine Learning
 - Data Analysis
 
-## 🌱 I’m currently learning 
+## 🌱 I’m currently learning
 - Advanced concepts in Python and Java
 - Data analysis techniques
 - Agile methodologies
+- Django and React
+- API development
+- PostgreSQL
+- Program management skills
+
 
 ## 💞️ I’m looking to collaborate on 
 - Technical Program Mangement Projects
